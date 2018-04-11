@@ -319,8 +319,6 @@ public class Game {
             platforms = new ArrayList<>();
             gameRoot = new Pane();
             appRoot = new Pane();
-            killsP1 = 0;
-            killsP1 = 0;
             lifesP1 = 3;
             lifesP2 = 3;
             restart();
